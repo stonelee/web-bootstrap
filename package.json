@@ -1,0 +1,8 @@
+{
+  "name": "web-bootstrap",
+  "version": "0.0.1",
+  "devDependencies": {
+    "grunt-contrib-watch": "~0.4.4",
+    "grunt-contrib-sass": "~0.4.1"
+  }
+}
